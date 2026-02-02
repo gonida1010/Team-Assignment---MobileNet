@@ -2,6 +2,10 @@
 
 본 리포지토리는 정확도 중심의 거대 CNN 모델들이 가진 한계를 실생활 서비스 관점에서 재해석하고, 경량화 모델인 **MobileNet**의 핵심 구조 분석 및 실험 결과를 담고 있습니다.
 
+참고한 논문: [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
+
+논문 분석: [논문 리뷰](https://jangcarru20100919.tistory.com/49)
+
 ---
 
 ## 1. 모델 조사 (Model Investigation)
